@@ -4,3 +4,6 @@ Ad-hoc Network (Ubuntu): http://howtoubuntu.org/how-to-create-a-wireless-ad-hoc-
 
 File Zilla Troubleshooting: https://www.howtogeek.com/140352/how-to-host-an-ftp-server-on-windows-with-filezilla/
 							https://my.wirenine.com/knowledgebase/140/How-to-fix-failed-to-retrieve-directory-listing-error-in-FileZilla-FTP.html
+
+
+http://addisu.taddese.com/blog/creating-wireless-ad-hoc-network-in-linux/
