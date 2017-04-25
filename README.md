@@ -21,3 +21,6 @@ File Zilla Troubleshooting: https://www.howtogeek.com/140352/how-to-host-an-ftp-
 
 
 http://addisu.taddese.com/blog/creating-wireless-ad-hoc-network-in-linux/
+
+
+http://www.delora.com/advice/networking_guide/adhoc_wifi2/
